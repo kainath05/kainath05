@@ -25,10 +25,8 @@ Here are some of my notable projects:
 
 ## 📫 How to Reach Me
 
-You can reach me at: kainath_ahmed@hotmail.com
-
-## 🤝 Connect with Me
-
+You can reach me at: 
+- kainath_ahmed@hotmail.com
 - [LinkedIn](https://www.linkedin.com/in/kainath-ahmed-474ab4266/)
 
 Thank you for visiting my GitHub page!
