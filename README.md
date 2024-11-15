@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 
-Hello! I am Kainath Ahmed, a dedicated and passionate Computer Science student. I am currently pursuing my degree, I enjoy solving complex problems and am always eager to learn new technologies and improve my skills.
+Hello! I am Kainath Ahmed, a dedicated and passionate Computer Science student at John Abbott College. I enjoy solving complex problems and am always eager to learn new technologies and improve my skills.
 
 ## 🛠️ Skills
 
