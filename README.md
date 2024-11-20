@@ -2,17 +2,11 @@
 
 ## 👩‍💻 About Me
 
-Hello! I am Kainath Ahmed, a dedicated and passionate Computer Science student at John Abbott College. I enjoy solving complex problems and am always eager to learn new technologies and improve my skills.
-
-## 🛠️ Skills
-
-- **Programming Languages**: Python, C#, JavaScript, TypeScript, Kotlin, Powershell, Bash
-- **Web Development**: HTML, CSS, Node.js
-- **Databases**: SQL Server, SQlite, PostgreSQL, Room
-- **Tools & Technologies**: Git, Docker, JIRA
+Hey, I'm Kainath Ahmed. I am a 3rd year John Abbott College computer science student who loves to learn and will keep on pursuing my passion in university!
 
 ## 📫 How to Reach Me
 
 You can reach me at: 
 - kainath_ahmed@hotmail.com
 - [LinkedIn](https://www.linkedin.com/in/kainath-ahmed-474ab4266/)
+- Check out my github page: [Github Page](https://kainath05.github.io/)
