@@ -1,6 +1,6 @@
 # Kainath Ahmed
 
-![Banner GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fsun-banner-gif%2F936309518340%2F&psig=AOvVaw06WRUSAm_dUnYZmfnboPX8&ust=1732230349650000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNj044eD7IkDFQAAAAAdAAAAABAE)
+![Banner GIF](https://i.pinimg.com/originals/be/63/08/be63089e483cb06b226f6976723f5e5f.gif)
 
 ## 👩‍💻 About Me
 
