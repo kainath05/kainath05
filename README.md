@@ -1,6 +1,6 @@
-# Kainath Ahmed
-
 ![Banner GIF](https://i.pinimg.com/originals/be/63/08/be63089e483cb06b226f6976723f5e5f.gif)
+
+# Kainath Ahmed
 
 ## 👩‍💻 About Me
 
